@@ -1,5 +1,4 @@
 // Code your solution in this file!
-// Code your solution in this file!
 const  returnFirstTwoDrivers = function anonymousFunction([]){
     return (['Antonia', 'Nuru']);
     
